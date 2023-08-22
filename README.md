@@ -1,8 +1,9 @@
 # warp-dark-theme
 Just sharing my personal warp theme inspired by my IntelliJ theme "Copilot Dark Theme" 
 
-<img width="545" alt="image" src="https://github.com/nathcakes/warp-dark-theme/assets/63271413/c01f5591-9c93-4a20-b0f2-495c5c705008">
+![SCR-20230822-e2b](https://github.com/nathcakes/warp-dark-theme/assets/63271413/54c2d4f7-9863-44cd-88c5-f3f00f7cc96e)
 
+![SCR-20230822-e2t](https://github.com/nathcakes/warp-dark-theme/assets/63271413/23ed26c9-5f44-4e0a-aa72-1962661c2bee)
 
 # Installation 
 From the instructions provided by [Warp Docs](https://docs.warp.dev/appearance/custom-themes): 
